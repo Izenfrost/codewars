@@ -1,0 +1,1 @@
+var opposite = number => -number
